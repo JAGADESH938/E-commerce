@@ -1,0 +1,5 @@
+# Ignore all files and folders in the home directory
+/*
+
+# But allow the specific project directory
+!/OneDrive/Desktop/WEB-CODE-MOSHIFY/
