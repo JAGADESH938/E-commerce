@@ -364,6 +364,22 @@ font-size: 1.5rem;
 
 }
 
+.media {
+  display: flex;
+}
+
+.media-title {
+  margin-top:0;
+}
+
+.media-body {
+  margin: 0 2rem;
+}
+
+.media__image {
+  margin: 1rem;
+}
+
 
 
 
